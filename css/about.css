@@ -1,0 +1,13 @@
+.about_contanier{
+    display:flex;
+    justify-content: space-between;
+}
+.about{
+    width: 500px;
+    padding: 20px;
+    margin: 100px 10px  10px 10px;
+}
+.coffee_img{
+    width:auto;
+    margin: 30px 0px 20px 0px;
+}
