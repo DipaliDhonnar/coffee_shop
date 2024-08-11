@@ -1,0 +1,14 @@
+
+.img1{
+    width:100%;
+    height: 100%;
+    border: 1px solid black;
+ }
+ .galary{
+     width: 250px;
+     height: 200px;
+     padding: 1px;
+    margin: 20px;
+    display:inline-block;
+    border: 2px solid black;
+ }
