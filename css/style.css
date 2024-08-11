@@ -1,0 +1,40 @@
+.no_underline{
+    text-decoration-line: none;
+}
+.text_center{
+ text-align: center;
+}
+.text_right{
+    text-align: right;
+}
+.button{
+    border: 1px solid black;
+    padding:  5px 15px;
+    margin: 2px;
+    border-radius:10px ;
+}
+.cursor{
+    cursor: pointer;
+}
+.body_color{
+    background-color:azure;
+}
+.button_center
+{
+    display:flex;
+    justify-content: center;
+}
+.margin{
+    margin: 20px 10px;
+}
+.button_color{
+    background-color: beige;
+    color: black;
+    border: 1px solid black;
+}
+.heding_font_familay{
+    font-family: "Gupter", serif;
+}
+.content_font_familay{
+    font-family:"Edu AU VIC WA NT Hand", cursive;
+}
