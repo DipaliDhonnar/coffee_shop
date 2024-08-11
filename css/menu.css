@@ -1,0 +1,16 @@
+.menu_card{
+    width: 200px;
+    height: 290px;
+    border:1px solid black;
+    border-radius: 20px;
+    margin: 40px;
+    padding:5px;
+    display: inline-block;
+    justify-content:center;
+}
+.menu_img{
+    width:160px;
+    height:130px;
+    border:1px solid navy;
+    margin: 10px 20px;
+}
