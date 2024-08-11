@@ -12,3 +12,20 @@
 .why_contanier{
     display: flex;
 }
+.why_choose_us_contanier{
+    display: flex;
+    justify-content:space-around;
+}
+.why_choose_us{
+    border: 1px solid navy;
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius:50%;
+}
+.why_choose_us_img{
+    width: 100px;
+    height: 100px;
+    margin: auto 50px ;
+}
