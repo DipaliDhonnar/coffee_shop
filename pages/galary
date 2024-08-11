@@ -17,7 +17,24 @@
     <a href="./../pages/galary.html" class="no_underline"><button class="cursor button button_color content_font_familay"> Galary</button></a>
     <a href="./../pages/menu.html" class="no_underline "> <button class="cursor button button_color content_font_familay">Menu</button></a>
     <a href="./../pages/contact.html"no_underline"> <button class="cursor button button_color content_font_familay">Contact</button></a>
-    </div></div><hr><footer class="text_center content_font_familay">
+    </div></div><hr>
+    <div class="img_contanier">
+        <div class="galary"><img src="./../images/img-2.png" class="img1"></div>
+        <div class="galary"><img src="./../images/img-3.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-4.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-5.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-6.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-7.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-8.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-9.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/about-img.png"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-0.jpeg"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-10.avif"  class="img1"></div>
+        <div class="galary"><img src="./../images/img11.avif"  class="img1"></div>
+        <div class="galary"><img src="./../images/img-11.avif"  class="img1"></div>
+        <div class="galary"><img src="./../images/img13.jpg"  class="img1"></div>
+        <div class="galary"><img src="./../images/img12.avif"  class="img1"></div>
+   </div><hr><footer class="text_center content_font_familay">
         <table width="100%" class="table-container">
             <tr>
                 <td class="heding_font_familay"><h2>Information</h2></td>
