@@ -18,7 +18,7 @@ We have various pages in this websites are as follows :
 
 ## *Home Page*
 
-![Home Page Screen Shot](./image/home.png)
+![Home Page Screen Shot](./images/home.png)
 
 ## Information About Home Page
 
@@ -28,7 +28,7 @@ We have various pages in this websites are as follows :
 - *Language Used* : HTML 5 ,css.
 ## *galary Page*
 
-![ galary page Screen Shot](./image/galary.png)
+![ galary page Screen Shot](./images/galary.png)
 
 ## Information about Galary page
 
@@ -37,7 +37,7 @@ We have various pages in this websites are as follows :
 - *Language Used* : HTML 5,css.
 ## *about us Page*
 
-![ about us page Screen Shot](./image/about us.png)
+![ about us page Screen Shot](./images/about us.png)
 
 ## Information about About Us page
 
